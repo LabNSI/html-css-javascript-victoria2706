@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/yLJQ2ES5)
 # Traitement d'un formulaire avec JavaScript
 
 Le but de cet exercice est de compléter les fichiers HTML, CSS et JavaScript pour réaliser une page web contenant un formulaire dont le traitement sera exécuter par un script JavaScript.
